@@ -1,0 +1,7 @@
+Transaction_ID;Customer;Amount;City;Status
+101;Rahul;500.0;Ahmedabad;Success
+102;Priya;;Surat;Success
+103;Amit;750.0;;Failed
+104;Neha;900.0;Vadodara;Success
+105;;650.0;Rajkot;Success
+106;Karan;1200.0;Ahmedabad;Success

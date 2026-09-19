@@ -1,0 +1,32 @@
+[
+    {
+        "song": "Blinding Lights",
+        "artist": "The Weeknd",
+        "streams": 1000000,
+        "genre": "Pop"
+    },
+    {
+        "song": "Shape of You",
+        "artist": "Ed Sheeran",
+        "streams": 920000,
+        "genre": "Pop"
+    },
+    {
+        "song": "Levitating",
+        "artist": "Dua Lipa",
+        "streams": 880000,
+        "genre": "Dance"
+    },
+    {
+        "song": "As It Was",
+        "artist": "Harry Styles",
+        "streams": 850000,
+        "genre": "Pop"
+    },
+    {
+        "song": "Stay",
+        "artist": "The Kid LAROI & Justin Bieber",
+        "streams": 810000,
+        "genre": "Pop"
+    }
+]
